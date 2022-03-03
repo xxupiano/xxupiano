@@ -7,7 +7,7 @@
 
 ## Research Work
 ### Information Extraction
-- [DeepKE](http://deepke.openkg.cn/): a knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction.
+- [DeepKE](http://deepke.openkg.cn/): a knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. [arXiv](https://arxiv.org/abs/2201.03335)
 
 ### Music Genration
 - [RedMelody](https://github.com/xxupiano/ChineseMusicTransformer): a Chinese piano MIDI dataset
