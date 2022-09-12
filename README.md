@@ -8,7 +8,7 @@
 ## Research Work
 ### Information Extraction
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. [arXiv](https://arxiv.org/abs/2201.03335)
-- [LREBench)(https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark.
+- [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark.
 
 ### Music Genration
 - [RedMelody](https://github.com/xxupiano/ChineseMusicTransformer): a Chinese piano MIDI dataset
