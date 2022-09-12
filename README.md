@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Xin Xu, a computer science master student in [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
-- 🌱 I’m currently studying in [ZJU KG Lab](http://zjukg.org/).
-- 👀 I'm interested in Deep Learning, music AI and NLP. 
+- 🌱 I’m currently studying in ZJU KG Lab.
+- 👀 I'm interested in NLP and Music AI. 
 - 🎵 I'm a pianist in Wenqin Organization of ZJU.
 - ✨ I'm always learning and creating something novel.
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
