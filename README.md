@@ -7,7 +7,7 @@
 
 ## Research Work
 ### Information Extraction
-- [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. [paper](https://arxiv.org/abs/2201.03335) (EMNLP 2022 System Demostration Track)
+- [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] (EMNLP 2022 System Demostration Track)
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark.
 
 ### Music Genration
