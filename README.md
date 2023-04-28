@@ -12,6 +12,7 @@
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] (**EMNLP 2022**)
 
 ### Music Generation
+- A novel work is coming soon ...
 - [RedMelody](https://github.com/xxupiano/ChineseMusicTransformer): a Chinese piano MIDI dataset
 - Create an [amelioration algorithm](https://github.com/xxupiano/ImprovingGeneratedPianoMIDI) for machine-generated piano MIDIs.
 
