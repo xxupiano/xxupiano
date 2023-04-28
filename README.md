@@ -1,8 +1,9 @@
 - 👋 Hi, I'm Xin Xu, a computer science master student in [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
-- 🌱 I’m currently studying in [ZJU KG Lab](http://zjukg.org/).
-- 👀 I'm interested in NLP and Music AI. 
+- 🌱 I’m studying in [ZJU KG Lab](http://zjukg.org/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
+- 👯 I'm fortunate to intern in Microsoft Research Area, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/) now.
+- 👀 I'm interested in NLP (text generation, reasoning, low-resource information extraction, etc.) and AI Music. 
 - 🎵 I'm a pianist in Wenqin Organization of ZJU.
-- ✨ I'm always learning and creating something novel.
+- ✨ **I'm looking for the summer intern in 2023 and the PhD position at Fall 2024.**
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
 
 ## Research Work
