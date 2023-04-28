@@ -3,7 +3,7 @@
 - 👯 I'm fortunate to intern in Microsoft Research Area, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/) now.
 - 👀 I'm interested in NLP (text generation, reasoning, low-resource information extraction, etc.) and AI Music. 
 - 🎵 I'm a pianist in Wenqin Organization of ZJU.
-- ✨ **I'm looking for the summer intern in 2023 and the PhD position at Fall 2024.**
+- ✨ **I'm looking for the summer intern in 2023 and the PhD position at Fall 2024 !!!**
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
 
 ## Research Work
