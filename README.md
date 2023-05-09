@@ -3,12 +3,13 @@
 - 👯 I'm fortunate to intern in Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/) now.
 - 👀 I'm interested in NLP (text generation, reasoning, low-resource information extraction, etc.) and AI Music. 
 - 🎵 I'm a pianist in Wenqin Organization of ZJU.
-- ❗ **Note: I'm looking for the summer intern in 2023 and the PhD position at Fall 2024 !!!**
+- 🔎 I will have a summer research intern at GaTech.
+- ❗ **Note: I'm looking for the PhD position at Fall 2024 !!!**
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
 
 ## Research Work
 ### Information Extraction
-- Solid works are coming soon ...
+- [LLM for few-shot RE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLM): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/pdf/2305.01555.pdf)\]
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] (**EMNLP 2022 System Demostration**)
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] (**EMNLP 2022**)
 
