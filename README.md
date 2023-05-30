@@ -9,8 +9,8 @@
 
 ## Research Work
 ### Information Extraction
-- [LLM for few-shot RE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLM): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/pdf/2305.01555.pdf)\] **ACL 2023 (SustaiNLP Workshop)**
-- [Schema-adaptable KGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/pdf/2305.08703.pdf)\]
+- [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLM): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/pdf/2305.01555.pdf)\] **ACL 2023 (SustaiNLP Workshop)**
+- [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/pdf/2305.08703.pdf)\]
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostration**
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022**
 
