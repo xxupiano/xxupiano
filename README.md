@@ -1,10 +1,10 @@
-- 👋 Hi, I'm Xin Xu, a master student of computer science in [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
+- 👋 Hi, I'm Xin Xu, a master student of computer science at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
 - 🌱 I’m studying in [ZJU KG Lab](http://zjukg.org/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
-- 👯 I'm fortunate to intern in Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/) now.
+- 👯 I'm fortunate to intern at Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/) now.
 - 👀 I'm interested in NLP (text generation, reasoning, low-resource information extraction, etc.) and AI Music. 
 - 🎵 I'm a pianist in Wenqin Organization of ZJU.
 - 🔎 I will have a summer research intern at GaTech.
-- ❗ **Note: I'm looking for the PhD position at Fall 2024 !!!**
+- ❗ **Note: I'm looking for a Ph.D. position at Fall 2024 !!!**
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
 
 ## Research Work
@@ -13,6 +13,8 @@
 - [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/pdf/2305.08703.pdf)\]
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostration**
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022**
+
+### Multiagent System
 
 ### Music Generation
 - [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
