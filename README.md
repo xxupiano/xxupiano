@@ -1,10 +1,10 @@
-- 👋 Hi, I'm Xin Xu, a master student of computer science at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
-- 🌱 I’m studying in [ZJU KG Lab](http://zjukg.org/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
-- 👯 I'm fortunate to intern at Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/) now.
+- 👋 Hi, I'm Xin Xu, a master's student of computer science at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
+- 🌱 I’m studying in [ZJU KG Lab](https://zjunlp.github.io/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
+- 👯 I was fortunate to intern at Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/).
 - 👀 I'm interested in NLP (text generation, reasoning, low-resource information extraction, etc.) and AI Music. 
-- 🎵 I'm a pianist in Wenqin Piano Society of ZJU.
-- 🔎 I will have a summer research intern at GaTech.
-- ❗ **Note: I'm looking for a Ph.D. position at Fall 2024 !!!**
+- 🎵 I'm a member of Wenqin Piano Society of ZJU.
+- 🔎 I'm having a research intern at GaTech.
+- ❗ **Note: I'm looking for a Ph.D. position at Fall 2024 !!! If you are interested, please feel free to contact me!**
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
 
 ## Research Work
