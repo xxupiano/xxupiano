@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Xin Xu, a master's student of computer science at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
 - 🌱 I’m studying in [ZJU KG Lab](https://zjunlp.github.io/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
 - 👯 I was fortunate to intern at Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/).
-- 👀 I'm interested in NLP (text generation, reasoning, low-resource information extraction, etc.) and AI Music. 
+- 👀 I'm interested in creative and harmless NLP (text/music generation, model editing, low-resource information extraction, etc.).
 - 🎵 I'm a member of Wenqin Piano Society of ZJU.
 - 🔎 I'm having a research intern at GaTech.
 - ❗ **Note: I'm looking for a Ph.D. position at Fall 2024 !!! If you are interested, please feel free to contact me!**
@@ -9,17 +9,14 @@
 
 ## Research Work
 ### Information Extraction
-
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/pdf/2305.01555.pdf)\] **ACL 2023 (SustaiNLP Workshop)**
 - [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/pdf/2305.08703.pdf)\]
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostration**
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022**
 
 ### Multi-agent System
-
 - [MachineSoM](https://github.com/zjunlp/MachineSoM): Machine Society-of-Mind: Exploring Collaboration Mechanisms Among Large Language Models
 ### Music Generation
-
 - [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
 - [RedMelody](https://github.com/xxupiano/ChineseMusicTransformer): a Chinese piano MIDI dataset
 - Create an [amelioration algorithm](https://github.com/xxupiano/ImprovingGeneratedPianoMIDI) for machine-generated piano MIDIs.
