@@ -9,14 +9,17 @@
 
 ## Research Work
 ### Information Extraction
+
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/pdf/2305.01555.pdf)\] **ACL 2023 (SustaiNLP Workshop)**
 - [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/pdf/2305.08703.pdf)\]
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostration**
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022**
 
 ### Multi-agent System
+
 - [MachineSoM](https://github.com/zjunlp/MachineSoM): Machine Society-of-Mind: Exploring Collaboration Mechanisms Among Large Language Models
 ### Music Generation
+
 - [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
 - [RedMelody](https://github.com/xxupiano/ChineseMusicTransformer): a Chinese piano MIDI dataset
 - Create an [amelioration algorithm](https://github.com/xxupiano/ImprovingGeneratedPianoMIDI) for machine-generated piano MIDIs.
