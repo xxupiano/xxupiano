@@ -10,9 +10,9 @@
 ## Research Work
 ### Information Extraction
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/abs/2305.01555)\] **ACL 2023 (SustaiNLP Workshop)**
-- [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/abs/2305.08703)\]
+- [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/abs/2305.08703)\] **EMNLP 2023 Findings**
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostration**
-- [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022**
+- [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022 Findings**
 
 ### Multi-agent System
 - [Society Collaboration](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms For LLM Agents. \[[paper](https://arxiv.org/abs/2310.02124)]
