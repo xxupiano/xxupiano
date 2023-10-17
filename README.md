@@ -8,8 +8,10 @@
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
 
 ## Research Work
+### Model Editing
+- EditBias: Debiasing Stereotyped Models via Model Editing. **WiNLP 2023 (EMNLP 2023 Workshop)**
 ### Information Extraction
-- [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/abs/2305.01555)\] **ACL 2023 (SustaiNLP Workshop)**
+- [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 (ACL 2023 Workshop)**
 - [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/abs/2305.08703)\] **EMNLP 2023 Findings**
 - [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostration**
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022 Findings**
