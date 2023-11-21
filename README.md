@@ -19,7 +19,7 @@
 - [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022 Findings**
 
 ### Multi-agent System
-- [Society Collaboration](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms For LLM Agents. \[[paper](https://arxiv.org/abs/2310.02124)]
+- [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms For LLM Agents. \[[paper](https://arxiv.org/abs/2310.02124)]
 
 ### Music Generation
 - [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
