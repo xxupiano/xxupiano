@@ -10,7 +10,7 @@
 ## Research Work
 
 ### Model Editing
-- [EditBias](https://github.com/xxupiano/EditBias): Debiasing Stereotyped Models via Model Editing. **WiNLP 2023 @ EMNLP 2023**
+- [EditBias](https://github.com/zjunlp/EditBias): Debiasing Stereotyped Models via Model Editing. **WiNLP 2023 @ EMNLP 2023**
 
 ### Information Extraction
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 @ ACL 2023**
