@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Xin Xu, a master's student of computer science at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
+- 👋 Hi, I'm Xin Xu, a 3rd-year CS MS. at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
 - 🌱 I’m studying in [ZJU KG Lab](https://zjunlp.github.io/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
 - 👯 I was fortunate to intern at Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/).
 - 👀 I'm interested in **creative and harmless NLP (text/music generation, model editing, information extraction, etc.)** \[[Scholar](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en)\].
