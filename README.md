@@ -1,7 +1,7 @@
 - 👋 Hi, I'm Xin Xu, a 3rd-year CS MS. at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
 - 🌱 I’m studying in [ZJU KG Lab](https://zjunlp.github.io/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
 - 👯 I was fortunate to intern at Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/).
-- 👀 I'm interested in **human-centered NLP, creative generation, and knowledge management**, focusing on harm unlearning, model editing, music AI, etc. \[[Scholar](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en)\].
+- 👀 I'm interested in **human-centered NLP, generation, knowledge management and acquisition**, focusing on harm unlearning, model editing, music AI, etc. \[[Scholar](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en)\].
 - 🎵 I'm a member of Wenqin Piano Society at ZJU.
 - 🔎 I'm having a research intern at GaTech.
 - ❗ **Note: I'm looking for a Ph.D. position at Fall 2024 !!! If you are interested, please feel free to contact me!**
@@ -9,8 +9,9 @@
 
 ## Research Work
 
-### Societal Harm Unlearning
+### Editing and Unlearning 
 - [EditBias](https://github.com/zjunlp/EditBias): Debiasing Stereotyped Models via Model Editing. **WiNLP 2023 @ EMNLP 2023**
+- [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit): A Comprehensive Study of Knowledge Editing for Large Language Models. \[[paper](https://arxiv.org/abs/2401.01286)\]
 
 ### Knowledge Acquisition
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 @ ACL 2023**
