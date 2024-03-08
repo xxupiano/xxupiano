@@ -4,6 +4,7 @@
 - 👀 I'm interested in **reasoning, generation, knowledge management and acquisition**, focusing on model editing, societal harm unlearning, music AI, etc. \[[Scholar](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en)\].
 - 🎵 I'm a member of Wenqin Piano Society at ZJU.
 - 🔎 I'm having a research intern at GaTech.
+- 🎓 I'm an incoming CSE Ph.D. student at UCSD.
 - 📫 How to reach me: <xxucs@zju.edu.cn>.
 
 ## Research Work
