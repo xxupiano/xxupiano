@@ -1,11 +1,9 @@
-- 👋 Hi, I'm Xin Xu, a 3rd-year CS MS., advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) at [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU).
-- 🌱 I’m studying in [ZJU KG Lab](https://zjunlp.github.io/), advised by [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en) and [Huajun Chen](https://scholar.google.com/citations?user=ToheCcUAAAAJ&hl=en).
+- 👋 Hi, I'm Xin Xu, an incoming CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
+- 👀 I'm interested in **trustworthy NLP, reasoning, and music AI**. \[[Scholar](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en)\].
 - 👯 I was fortunate to intern at Microsoft Research Asia, advised by [Peiling Lu](https://www.microsoft.com/en-us/research/people/peil/) and [Xu Tan](https://tan-xu.github.io/).
-- 👀 I'm interested in **trustworthy NLP, reasoning, knowledge acquisition and unlearning**, focusing on model editing, societal harm unlearning, music AI, etc. \[[Scholar](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en)\].
-- 🎵 I'm a member of Wenqin Piano Society at ZJU.
-- 🔎 I'm having a research intern at GaTech.
-- 🎓 I'm an incoming CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
-- 📫 How to reach me: <xxucs@zju.edu.cn>.
+- 🎓 I obtained the CS master's degree from [Zhejiang University](https://www.zju.edu.cn/english/) (ZJU, advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en)).
+- 🎵 I love music. I was a member of Wenqin Piano Society at ZJU.
+- 📫 How to reach me: <xinxucs@ucsd.edu>.
 
 ## Research Work
 
