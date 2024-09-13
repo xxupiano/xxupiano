@@ -10,6 +10,7 @@
 ### Editing and Unlearning 
 - [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. **WiNLP 2023 @ EMNLP 2023**
 - [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit): A Comprehensive Study of Knowledge Editing for Large Language Models. \[[paper](https://arxiv.org/abs/2401.01286)\]
+- [CKnowEdit](https://github.com/zjunlp/EasyEdit/blob/main/examples/CKnowEdit.md): Benchmarking Chinese Knowledge Rectification in Large Language Models. \[[paper](https://arxiv.org/abs/2409.05806)\]
 
 ### Knowledge Acquisition
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 @ ACL 2023**
