@@ -13,13 +13,13 @@
 - [CKnowEdit](https://github.com/zjunlp/EasyEdit/blob/main/examples/CKnowEdit.md): Benchmarking Chinese Knowledge Rectification in Large Language Models. \[[paper](https://arxiv.org/abs/2409.05806)\]
 
 ### Knowledge Acquisition
-- [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): An exploration of unleashing the power of LLMs for few-shot relation extraction. \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 @ ACL 2023**
-- [AdaKGC](https://github.com/zjunlp/AdaKGC): KGC based on a dynamically changing schema graph without re-training. \[[paper](https://arxiv.org/abs/2305.08703)\] **EMNLP 2023 Findings**
-- [DeepKE](http://deepke.openkg.cn/): A knowledge extraction toolkit supporting standard supervised, low-resource and document-level scenarios for entity, relation and attribution extraction. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostrations**
-- [LREBench](https://github.com/zjunlp/LREBench): A low-resource relation extraction benchmark. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022 Findings**
+- [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): How to Unleash the Power of Large Language Models for Few-shot Relation Extraction? \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 @ ACL 2023**
+- [AdaKGC](https://github.com/zjunlp/AdaKGC): Schema-adaptable Knowledge Graph Construction. \[[paper](https://arxiv.org/abs/2305.08703)\] **EMNLP 2023 Findings**
+- [DeepKE](http://deepke.openkg.cn/): A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostrations**
+- [LREBench](https://github.com/zjunlp/LREBench): Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022 Findings**
 
 ### Agent
-- [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms For LLM Agents. \[[paper](https://arxiv.org/abs/2310.02124)] **ACL 2024**
+- [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View. \[[paper](https://arxiv.org/abs/2310.02124)] **ACL 2024**
 
 ### Music AI
 - [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
