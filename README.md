@@ -3,6 +3,7 @@
 - 🎓 I obtained the CS master's degree from [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en).
 - :computer: I was fortunate to intern at Microsoft Research Asia, advised by [Xu Tan](https://tan-xu.github.io/).
 - 🎵 I love music. I was a member of Wenqin Piano Society at Zhejiang University.
+- 🐾 Web: [https://xxupiano.github.io/](https://xxupiano.github.io/)
 - 📫 How to reach me: <xinxucs@ucsd.edu>.
 
 ## Research Work
