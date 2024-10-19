@@ -1,4 +1,4 @@
-- 👋 Hi, I'm \[Xin (Rodenza) Xu\](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en), a CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
+- 👋 Hi, I'm [Xin (Rodenza) Xu](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en), a CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
 - 👀 I'm interested in
     - **Human-centered NLP**: fairness and toxicity
     - **Knowledge Management**: editing and low-resource acquisition
