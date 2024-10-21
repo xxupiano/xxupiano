@@ -2,7 +2,7 @@
 - 👀 I'm interested in
     - **Human-centered NLP**: fairness and toxicity
     - **Knowledge Management**: editing and low-resource acquisition
-    - **Music AI**: generation, interpretation and musician-oriented AI assistant
+    - **Music AI**: generation, interpretation, and musician-oriented AI assistant
    
 - 🎓 I obtained the CS master's degree from [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en).
 - :computer: I was fortunate to intern at Microsoft Research Asia, advised by [Xu Tan](https://tan-xu.github.io/).
@@ -12,19 +12,17 @@
 
 ## Research Work
 
-### Editing and Unlearning 
+### Human-centered NLP
 - [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. **WiNLP 2023 @ EMNLP 2023**
+- [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View. \[[paper](https://arxiv.org/abs/2310.02124)] **ACL 2024**
+
+### Knowledge Management
 - [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit): A Comprehensive Study of Knowledge Editing for Large Language Models. \[[paper](https://arxiv.org/abs/2401.01286)\]
 - [CKnowEdit](https://github.com/zjunlp/EasyEdit/blob/main/examples/CKnowEdit.md): Benchmarking Chinese Knowledge Rectification in Large Language Models. \[[paper](https://arxiv.org/abs/2409.05806)\]
-
-### Knowledge Acquisition
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): How to Unleash the Power of Large Language Models for Few-shot Relation Extraction? \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 @ ACL 2023**
 - [AdaKGC](https://github.com/zjunlp/AdaKGC): Schema-adaptable Knowledge Graph Construction. \[[paper](https://arxiv.org/abs/2305.08703)\] **EMNLP 2023 Findings**
 - [DeepKE](http://deepke.openkg.cn/): A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostrations**
 - [LREBench](https://github.com/zjunlp/LREBench): Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022 Findings**
-
-### Agent
-- [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View. \[[paper](https://arxiv.org/abs/2310.02124)] **ACL 2024**
 
 ### Music AI
 - [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
