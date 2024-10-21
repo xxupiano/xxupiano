@@ -3,8 +3,7 @@
     - **Human-centered NLP**: fairness and toxicity
     - **Knowledge Management**: editing and low-resource acquisition
     - **Music AI**: generation, interpretation, and musician-oriented AI assistant
-   
-- 🎓 I obtained the CS master's degree from [Zhejiang University](https://www.zju.edu.cn/english/), advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en).
+- 🎓 I obtained the CS master's degree from Zhejiang University, advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en).
 - :computer: I was fortunate to intern at Microsoft Research Asia, advised by [Xu Tan](https://tan-xu.github.io/).
 - 🎵 I love music. I was a member of Wenqin Piano Society at Zhejiang University.
 - 🐾 Web: [https://xxupiano.github.io/](https://xxupiano.github.io/)
