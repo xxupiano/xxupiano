@@ -1,8 +1,8 @@
 - 👋 Hi, I'm [Xin Xu](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en), a CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
-- 👀 I'm interested in
-    - **Human-centered NLP**: fairness and toxicity
-    - **Knowledge Management**: editing and low-resource acquisition
-    - **Music AI**: generation, interpretation, and musician-oriented AI assistant
+- 👀 I'm interested in:
+    - **Human-centered NLP**: fairness and toxicity (mitigation and explanation)
+    - **Knowledge Management**: factuality and interpretability (editing, unlearning, and low-resource acquisition)
+    - **Music AI**: generation and interpretation (musician-oriented AI assistant)
 - 🎓 I obtained the CS master's degree from Zhejiang University, advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en).
 - :computer: I was fortunate to intern at Microsoft Research Asia, advised by [Xu Tan](https://tan-xu.github.io/).
 - 🎵 I love music. I was a member of Wenqin Piano Society at Zhejiang University.
