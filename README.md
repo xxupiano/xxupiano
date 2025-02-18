@@ -7,7 +7,7 @@
 - :computer: I was fortunate to intern at Microsoft Research Asia, advised by [Xu Tan](https://tan-xu.github.io/).
 - 🎵 I love music. I was a member of Wenqin Piano Society at Zhejiang University.
 - 🐾 Web: [https://xxupiano.github.io/](https://xxupiano.github.io/)
-- 📫 How to reach me: xinxucs [at] ucsd [dot] edu
+- 📬 How to reach me: xinxucs [at] ucsd [dot] edu
 
 ## Research Work
 
