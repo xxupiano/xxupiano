@@ -12,7 +12,7 @@
 ## Research Work
 
 ### Human-centered NLP
-- [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. **WiNLP 2023 @ EMNLP 2023**
+- [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. **TrustNLP @ NAACL 2025**
 - [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View. \[[paper](https://arxiv.org/abs/2310.02124)] **ACL 2024**
 
 ### Knowledge Management
