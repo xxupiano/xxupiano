@@ -1,6 +1,6 @@
 - 👋 Hi, I'm [Xin Xu](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en), a CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
 - 👀 I'm interested in:
-    - **Human-centered NLP**: fairness and toxicity (mitigation and explanation)
+    - **Trustworthy NLP**: fairness and toxicity (mitigation and explanation)
     - **Knowledge Management**: factuality and interpretability (editing, unlearning, and low-resource acquisition)
     - **Music AI**: generation and interpretation (musician-oriented AI assistant)
 - 🎓 I obtained the CS master's degree from Zhejiang University, advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en).
@@ -11,8 +11,9 @@
 
 ## Research Work
 
-### Human-centered NLP
-- [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. **TrustNLP @ NAACL 2025**
+### Trustworthy NLP
+- [ReDis](https://github.com/NafisSadeq/reasoning-distillation): Improving In-Context Learning with Reasoning Distillation. \[[paper](https://arxiv.org/pdf/2504.10647)]
+- [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. \[[paper](https://arxiv.org/pdf/2503.08588)] **TrustNLP @ NAACL 2025**
 - [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View. \[[paper](https://arxiv.org/abs/2310.02124)] **ACL 2024**
 
 ### Knowledge Management
