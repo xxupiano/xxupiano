@@ -18,7 +18,7 @@
 
 ### Knowledge Management
 - [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit): A Comprehensive Study of Knowledge Editing for Large Language Models. \[[paper](https://arxiv.org/abs/2401.01286)\]
-- [CKnowEdit](https://github.com/zjunlp/EasyEdit/blob/main/examples/CKnowEdit.md): Benchmarking Chinese Knowledge Rectification in Large Language Models. \[[paper](https://arxiv.org/abs/2409.05806)\]
+- [CKnowEdit](https://github.com/zjunlp/EasyEdit/blob/main/examples/CKnowEdit.md): Benchmarking Chinese Knowledge Rectification in Large Language Models. \[[paper](https://arxiv.org/abs/2409.05806)\] **ACL 2025**
 - [UnleashLLMRE](https://github.com/zjunlp/DeepKE/tree/main/example/llm/UnleashLLMRE): How to Unleash the Power of Large Language Models for Few-shot Relation Extraction? \[[paper](https://arxiv.org/abs/2305.01555)\] **SustaiNLP 2023 @ ACL 2023**
 - [AdaKGC](https://github.com/zjunlp/AdaKGC): Schema-adaptable Knowledge Graph Construction. \[[paper](https://arxiv.org/abs/2305.08703)\] **EMNLP 2023 Findings**
 - [DeepKE](http://deepke.openkg.cn/): A Deep Learning Based Knowledge Extraction Toolkit for Knowledge Base Population. \[[paper](https://arxiv.org/abs/2201.03335)\] **EMNLP 2022 System Demostrations**
