@@ -1,8 +1,8 @@
 - 👋 Hi, I'm [Xin Xu](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en), a CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
 - 👀 I'm interested in:
-    - **Trustworthy NLP**: fairness and toxicity (mitigation and explanation)
-    - **Knowledge Management**: factuality and interpretability (editing, unlearning, and low-resource acquisition)
-    - **Music AI**: generation and interpretation (musician-oriented AI assistant)
+    - **Trustworthy NLP**: LLM interpretability and and toxicity
+    - **Knowledge Management**: factuality and interpretability
+    - **Music Science**: music interpretation and controllable music generation
 - 🎓 I obtained the CS master's degree from Zhejiang University, advised by Prof. [Ningyu Zhang](https://scholar.google.com/citations?user=xQDOPvsAAAAJ&hl=en).
 - :computer: I was fortunate to intern at Microsoft Research Asia, advised by [Xu Tan](https://tan-xu.github.io/).
 - 🎵 I love music. I was a member of Wenqin Piano Society at Zhejiang University.
@@ -12,6 +12,7 @@
 ## Research Work
 
 ### Trustworthy NLP
+- [Aging Benchmarks](https://github.com/JiangXunyi/BenchAge): When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation. \[[paper]](https://arxiv.org/pdf/2510.07238)]
 - [BiasFreeBench](https://github.com/xxupiano/BiasFreeBench): BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses. \[[paper](https://www.arxiv.org/pdf/2510.00232)]
 - [ReDis](https://github.com/NafisSadeq/reasoning-distillation): Improving In-Context Learning with Reasoning Distillation. \[[paper](https://arxiv.org/pdf/2504.10647)]
 - [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. \[[paper](https://arxiv.org/pdf/2503.08588)] **TrustNLP @ NAACL 2025**
