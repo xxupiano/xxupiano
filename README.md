@@ -27,7 +27,7 @@
 - [LREBench](https://github.com/zjunlp/LREBench): Towards Realistic Low-resource Relation Extraction: A Benchmark with Empirical Baseline Study. \[[paper](https://arxiv.org/abs/2210.10678)] **EMNLP 2022 Findings**
 
 ### Music AI
-- [Composer Vector](https://github.com/JiangXunyi/Composer-Vector): Style-steering symbolic music generation \[[paper](https://openreview.net/pdf?id=t0Zz2DpaYT)] \[[demo page](https://jiangxunyi.github.io/composervector.github.io/)\]
+- [Composer Vector](https://github.com/JiangXunyi/Composer-Vector): Style-steering symbolic music generation \[[paper](https://openreview.net/pdf?id=t0Zz2DpaYT)] \[[demo page](https://jiangxunyi.github.io/composervector.github.io/)\] **AI4Music @ NeurIPS 2025**
 - [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
 - [RedMelody](https://github.com/xxupiano/ChineseMusicTransformer): a Chinese piano MIDI dataset
 - Create an [amelioration algorithm](https://github.com/xxupiano/ImprovingGeneratedPianoMIDI) for machine-generated piano MIDIs.
