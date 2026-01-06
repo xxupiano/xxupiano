@@ -12,7 +12,7 @@
 ## Research Work
 
 ### Trustworthy NLP
-- [Aging Benchmarks](https://github.com/JiangXunyi/BenchAge): When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation. \[[paper](https://arxiv.org/pdf/2510.07238)] **LLM-eval @ NeurIPS 2025**
+- [Aging Benchmarks](https://github.com/JiangXunyi/BenchAge): When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation. \[[paper](https://arxiv.org/pdf/2510.07238)] **EACL 2026 (Oral)**
 - [BiasFreeBench](https://github.com/xxupiano/BiasFreeBench): BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses. \[[paper](https://www.arxiv.org/pdf/2510.00232)] **ResponsibleFM @ NeurIPS 2025**
 - [ReDis](https://github.com/NafisSadeq/reasoning-distillation): Improving In-Context Learning with Reasoning Distillation. \[[paper](https://arxiv.org/pdf/2504.10647)]
 - [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. \[[paper](https://arxiv.org/pdf/2503.08588)] **TrustNLP @ NAACL 2025**
