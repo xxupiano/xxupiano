@@ -12,7 +12,7 @@
 
 ### Trustworthy NLP
 - [Aging Benchmarks](https://github.com/JiangXunyi/BenchAge): When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation. \[[paper](https://arxiv.org/pdf/2510.07238)] **EACL 2026**
-- [BiasFreeBench](https://github.com/xxupiano/BiasFreeBench): BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses. \[[paper](https://www.arxiv.org/pdf/2510.00232)] **ResponsibleFM @ NeurIPS 2025**
+- [BiasFreeBench](https://github.com/xxupiano/BiasFreeBench): BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses. \[[paper](https://www.arxiv.org/pdf/2510.00232)] **ICLR 2026**
 - [ReDis](https://github.com/NafisSadeq/reasoning-distillation): Improving In-Context Learning with Reasoning Distillation. \[[paper](https://arxiv.org/pdf/2504.10647)]
 - [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. \[[paper](https://arxiv.org/pdf/2503.08588)] **TrustNLP @ NAACL 2025**
 - [MachineSoM](https://github.com/zjunlp/MachineSoM): Exploring Collaboration Mechanisms for LLM Agents: A Social Psychology View. \[[paper](https://arxiv.org/abs/2310.02124)] **ACL 2024**
