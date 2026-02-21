@@ -11,6 +11,7 @@
 ## Research Work
 
 ### Trustworthy NLP
+- ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces. \[[paper](https://arxiv.org/pdf/2602.11683)]
 - [Aging Benchmarks](https://github.com/JiangXunyi/BenchAge): When Benchmarks Age: Temporal Misalignment through Large Language Model Factuality Evaluation. \[[paper](https://arxiv.org/pdf/2510.07238)] **EACL 2026**
 - [BiasFreeBench](https://github.com/xxupiano/BiasFreeBench): BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses. \[[paper](https://www.arxiv.org/pdf/2510.00232)] **ICLR 2026**
 - [ReDis](https://github.com/NafisSadeq/reasoning-distillation): Improving In-Context Learning with Reasoning Distillation. \[[paper](https://arxiv.org/pdf/2504.10647)]
