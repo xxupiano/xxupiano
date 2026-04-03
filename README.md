@@ -33,6 +33,7 @@
 
 ### Others
 - ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces. \[[paper](https://arxiv.org/pdf/2602.11683)]
+- [SkillNet](http://skillnet.openkg.cn/): Create, Evaluate, and Connect AI Skills. \[[paper](https://arxiv.org/pdf/2603.04448)]
 
 
 <!--
