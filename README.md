@@ -31,9 +31,11 @@
 - Create an [amelioration algorithm](https://github.com/xxupiano/ImprovingGeneratedPianoMIDI) for machine-generated piano MIDIs.
 
 ### Others
-- [ThinkRouter](https://github.com/xxupiano/ThinkRouter): Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces. \[[paper](https://arxiv.org/pdf/2602.11683)]
-- [ReDis](https://github.com/NafisSadeq/reasoning-distillation): Improving In-Context Learning with Reasoning Distillation. \[[paper](https://arxiv.org/pdf/2504.10647)]
 - [SkillNet](http://skillnet.openkg.cn/): Create, Evaluate, and Connect AI Skills. \[[paper](https://arxiv.org/pdf/2603.04448)]
+- [ThinkRouter](https://github.com/xxupiano/ThinkRouter): Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces. \[[paper](https://arxiv.org/pdf/2602.11683)]
+- [ACTS](https://github.com/Andree-9/ACTS): Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning. \[[paper](https://arxiv.org/pdf/2606.03965)]
+- [ReDis](https://github.com/NafisSadeq/reasoning-distillation): Improving In-Context Learning with Reasoning Distillation. \[[paper](https://arxiv.org/pdf/2504.10647)]
+
 
 
 <!--
