@@ -13,7 +13,7 @@
 - [BiasFreeBench](https://github.com/xxupiano/BiasFreeBench): BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model Responses. \[[paper](https://www.arxiv.org/pdf/2510.00232)] **ICLR 2026**
 - [BiasEdit](https://github.com/zjunlp/BiasEdit): Debiasing Stereotyped Models via Model Editing. \[[paper](https://arxiv.org/pdf/2503.08588)] **TrustNLP @ NAACL 2025**
 
-- [When Benchmarks Age]((https://github.com/JiangXunyi/BenchAge)): Temporal Misalignment through Large Language Model Factuality Evaluation. \[[paper](https://arxiv.org/pdf/2510.07238)] **EACL 2026**
+- [When Benchmarks Age](https://github.com/JiangXunyi/BenchAge): Temporal Misalignment through Large Language Model Factuality Evaluation. \[[paper](https://arxiv.org/pdf/2510.07238)] **EACL 2026**
 - [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit): A Comprehensive Study of Knowledge Editing for Large Language Models. \[[paper](https://arxiv.org/abs/2401.01286)\]
 
 
