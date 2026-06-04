@@ -17,12 +17,12 @@
 - [KnowEdit](https://huggingface.co/datasets/zjunlp/KnowEdit): A Comprehensive Study of Knowledge Editing for Large Language Models. \[[paper](https://arxiv.org/abs/2401.01286)\]
 
 
-- [Composer Vector](https://github.com/JiangXunyi/Composer-Vector): Style-steering symbolic music generation \[[paper](https://openreview.net/pdf?id=t0Zz2DpaYT)] \[[demo page](https://jiangxunyi.github.io/composervector.github.io/)\] **AI4Music @ NeurIPS 2025**
-- [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
-
 
 - [SkillNet](http://skillnet.openkg.cn/): Create, Evaluate, and Connect AI Skills. \[[paper](https://arxiv.org/pdf/2603.04448)]
 - [ThinkRouter](https://github.com/xxupiano/ThinkRouter): Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces. \[[paper](https://arxiv.org/pdf/2602.11683)]
+
+- [Composer Vector](https://github.com/JiangXunyi/Composer-Vector): Style-steering symbolic music generation \[[paper](https://openreview.net/pdf?id=t0Zz2DpaYT)] \[[demo page](https://jiangxunyi.github.io/composervector.github.io/)\] **AI4Music @ NeurIPS 2025**
+- [MuseCoco](https://github.com/microsoft/muzic/tree/main/musecoco): Generating Symbolic Music from Text \[[paper](https://arxiv.org/abs/2306.00110)] \[[demo page](https://ai-muzic.github.io/musecoco/)\]
 
 
 
