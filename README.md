@@ -1,5 +1,5 @@
 - 👋 Hi, I'm [Xin Xu](https://scholar.google.com/citations?user=KBdTqoEAAAAJ&hl=en), a CSE Ph.D. student at UCSD, advised by Prof. [Julian McAuley](https://cseweb.ucsd.edu/~jmcauley/).
-- 👀 I'm interested in interpreting and efficiently controlling LLM behaviors:
+- 👀 I'm interested in **interpreting and efficiently controlling LLM behaviors**:
     - **Trustworthy NLP**: LLM actionable interpretability, factuality, and fairness
     - **Music is Language**: creation, interpretation, and evaluation
 - 🐾 Web: [https://xxupiano.github.io/](https://xxupiano.github.io/)
